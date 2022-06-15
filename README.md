@@ -129,7 +129,7 @@ You can customize your homepage by adding content to either an `index.md` file o
   Historic note: previous version checked the file path. Previous version checked the front matter formatting.
 -->
 
-<details id=4 open>
+<details id=4>
 <summary><h2>Step 4: Create a blog post</h2></summary>
 
 _Your home page is looking great! :cowboy_hat_face:_
@@ -196,7 +196,7 @@ You can now [merge](https://docs.github.com/en/get-started/quickstart/github-glo
   Review what we learned, ask for feedback, provide next steps.
 -->
 
-<details id=X>
+<details id=X open>
 <summary><h2>Finish</h2></summary>
 
 _Congratulations friend, you've completed this course!_
